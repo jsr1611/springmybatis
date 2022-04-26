@@ -35,11 +35,11 @@
       <version>5.2.0.RELEASE</version>
     </dependency>
 
-<!--    JAVA 8 SUPPORT -->
+<!--    JAVA 7 SUPPORT -->
     <dependency>
       <groupId>javax</groupId>
       <artifactId>javaee-api</artifactId>
-      <version>8.0</version>
+      <version>7.0</version>
     </dependency>
 
 <!--    JSTL TAG LIBRARY SUPPORT  -->
