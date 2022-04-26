@@ -77,6 +77,13 @@
       <version>0.9.1.1</version>
     </dependency>
 
+<!--    LOMBOK SUPPORT  -->
+    <dependency>
+      <groupId>org.projectlombok</groupId>
+      <artifactId>lombok</artifactId>
+      <version>1.16.10</version>
+    </dependency>
+
   </dependencies>
 
   <build>
